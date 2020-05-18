@@ -1,4 +1,4 @@
-# Miniproject_Week_2
+# Mini-project II
 The details for the miniproject from Week 2
 
 
