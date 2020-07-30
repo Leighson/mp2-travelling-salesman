@@ -15,10 +15,10 @@ We will work with these APIs:
 
 The main goal of the mini-project is to build the database of restaurants, bars and various points of interest (POIs) in the area of your choice and find out which API has better coverage in the selected area. The APIs have limited number of requests for free, so start with the smaller area. The project consists of following tasks:
 
-- pull the data about various POIs in the area through API.
+- pull the data about various POIs in the area through API. (Search Yelp for companiees that are in the area using [these instructions](https://www.yelp.com/developers/documentation/v3/business_search)). If you run out of requests for any of the APIs, don't worry, it's ok to use only sample data you already have or the POIs from the Yelp API. It's approach and process that counts, not the actual number of places we were able to get.
 - create own SQLite database and store the data about the POIs. Think about what will be the best structure of the database. We've created sqlite3 databases before in the activity [**Pandas with SQL**](https://data.compass.lighthouselabs.ca/71d9e264-4939-4906-9ef1-725c0ff270a0).
 - compare the results using SQL or Pandas (it's up to you:)) and see which API has a better coverage of the area.
-- choose the top 10 POIs based on the popularity (number of reviews or average rating).
+- choose the top 10 POIs based on the popularity (number of reviews or average rating) ([Yelp](https://www.yelp.com/developers/documentation/v3/business), [Foursquare](https://developer.foursquare.com/docs/api-reference/venues/details/)).
 - (Stretch) By implementing [travelling salesman problem (TSP)](https://en.wikipedia.org/wiki/Travelling_salesman_problem), how much time would it take to visit all of these places? ([Directions API](https://developers.google.com/maps/documentation/directions/start) from google will be helpful here). We will have to find travel time between all places (top 10). We can use [ortools](https://developers.google.com/optimization/routing/tsp) from Google to effectively implement TSP. These tools are very powerful and [easy to install](https://developers.google.com/optimization/install).
 
 We have a lot of work so let's start right away. Enjoy!!
