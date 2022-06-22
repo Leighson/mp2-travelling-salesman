@@ -1,6 +1,6 @@
 # Mini-project II
 
-#### [--------Task List--------](#tasks)
+#### [----> Task List <----](#tasks)
 
 In this mini-project, we will combine and practice topics that we have learned in previous two weeks:
 - APIs
