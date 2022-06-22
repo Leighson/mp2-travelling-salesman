@@ -1,5 +1,6 @@
 # Mini-project II
 
+#### [--------Task List--------](#tasks)
 
 In this mini-project, we will combine and practice topics that we have learned in previous two weeks:
 - APIs
@@ -7,7 +8,7 @@ In this mini-project, we will combine and practice topics that we have learned i
 - Pandas
 - Processing special data types in Python
 
-#### [Task List](#tasks)
+
 
 We will work with these APIs:
 1. [Foursquare](https://developer.foursquare.com/places) - we have already encountered this one
