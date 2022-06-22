@@ -7,7 +7,7 @@ In this mini-project, we will combine and practice topics that we have learned i
 - Pandas
 - Processing special data types in Python
 
-#### [Task List](#task-list)
+#### [Task List](#tasks)
 
 We will work with these APIs:
 1. [Foursquare](https://developer.foursquare.com/places) - we have already encountered this one
@@ -37,7 +37,7 @@ The main goal of this mini-project is to build yourself a database of restaurant
 > Some APIs from Google aren't for free anymore but each account has $200 credit every month. Therefore we're able to use these services for learning purposes for free.
 
 
-## Task List
+## Tasks
 1. complete the [EDA Notebook](notebooks/EDA.ipynb) following the guidance and instructions it contains
 2. fill out your [README](README.md) with:
     - a brief description of the project and its goals (2-3 sentences)
