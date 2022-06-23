@@ -12,7 +12,7 @@
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area)
 
-## Challanges 
+## Challenges 
 (discuss challenges you faced in the project)
 
 ## Future Goals

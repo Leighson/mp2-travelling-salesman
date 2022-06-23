@@ -30,7 +30,7 @@ The main goal of this mini-project is to build yourself a database of restaurant
 #### Don't forget your overall learning goals for this project!
 - practice retrieving data from APIs (in a variety of formats)
 - store data you've retrieved from multiple sources in a SQL database (in this case an SQLite3 database on your local machine)
-- do some Exploratory Data Analysis on the data you've retrieved
+- do some Exploratory Data Analysis on the data you've retrieved <br>
 ***Enjoy!***
 
 
