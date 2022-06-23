@@ -46,7 +46,7 @@ The main goal of this mini-project is to build yourself a database of restaurant
     - your results (which API had the best coverage in your chosen area?)
     - brief discussion of challenges you faced in this project (2-4 sentences or list points)
     - (optional) description what you would do with a bit more time
-    - use images to spice up your README if you want(put them in your `images/` directory and [link the image](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/))
+    - use images to spice up your README if you want (put them in your `images/` directory and [link the image](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/))
 3. save the schema of the SQLite database you made to a text file called `database_schema.txt` located in the `data/` directory:
     - open a terminal, navigate to your `data/` directory
     - run the command `sqlite3 [YOUR DATABASE FILE] .schema > database_schema.txt`, replacing [YOUR DATABASE FILE] with the name of your database, for example:
